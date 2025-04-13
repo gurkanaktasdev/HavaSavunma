@@ -1,0 +1,10 @@
+C:\Users\aktas\source\repos\havaSavunmaTasarimss\havaSavunmaTasarimss\bin\Debug\havaSavunmaTasarimss.exe.config
+C:\Users\aktas\source\repos\havaSavunmaTasarimss\havaSavunmaTasarimss\bin\Debug\havaSavunmaTasarimss.exe
+C:\Users\aktas\source\repos\havaSavunmaTasarimss\havaSavunmaTasarimss\bin\Debug\havaSavunmaTasarimss.pdb
+C:\Users\aktas\source\repos\havaSavunmaTasarimss\havaSavunmaTasarimss\obj\Debug\havaSavunmaTasarimss.csproj.AssemblyReference.cache
+C:\Users\aktas\source\repos\havaSavunmaTasarimss\havaSavunmaTasarimss\obj\Debug\havaSavunmaTasarimss.Form1.resources
+C:\Users\aktas\source\repos\havaSavunmaTasarimss\havaSavunmaTasarimss\obj\Debug\havaSavunmaTasarimss.Properties.Resources.resources
+C:\Users\aktas\source\repos\havaSavunmaTasarimss\havaSavunmaTasarimss\obj\Debug\havaSavunmaTasarimss.csproj.GenerateResource.cache
+C:\Users\aktas\source\repos\havaSavunmaTasarimss\havaSavunmaTasarimss\obj\Debug\havaSavunmaTasarimss.csproj.CoreCompileInputs.cache
+C:\Users\aktas\source\repos\havaSavunmaTasarimss\havaSavunmaTasarimss\obj\Debug\havaSavunmaTasarimss.exe
+C:\Users\aktas\source\repos\havaSavunmaTasarimss\havaSavunmaTasarimss\obj\Debug\havaSavunmaTasarimss.pdb
