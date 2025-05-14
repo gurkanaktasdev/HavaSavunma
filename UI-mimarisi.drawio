@@ -1,0 +1,88 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14">
+  <diagram name="Sayfa -1" id="jg6Y_qHEkStI7UyJQZgl">
+    <mxGraphModel dx="1426" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_CV9JmvEhVDrdJEq_DAU-1" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="234" y="230" width="280" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="UEnS7jFvRgCfqIm5CqwN-1" value="UI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="354" y="200" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UEnS7jFvRgCfqIm5CqwN-2" value=".py uzantılı C.V dosyası" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="170" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UEnS7jFvRgCfqIm5CqwN-5" value=".py uzantılı C.V dosyası" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="330" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UEnS7jFvRgCfqIm5CqwN-7" value="C.V = İçerisinde Computer Vision Algoritmalarının Çalışdığı Dosya" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="530" y="620" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UEnS7jFvRgCfqIm5CqwN-8" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="UEnS7jFvRgCfqIm5CqwN-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="420" as="sourcePoint" />
+            <mxPoint x="230" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="200" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UEnS7jFvRgCfqIm5CqwN-9" value="UDP/Socket" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="368" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UEnS7jFvRgCfqIm5CqwN-10" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.575;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" target="_CV9JmvEhVDrdJEq_DAU-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="395" y="460" as="sourcePoint" />
+            <mxPoint x="410" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UEnS7jFvRgCfqIm5CqwN-11" value="UDP/Socket" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="304" y="410" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UEnS7jFvRgCfqIm5CqwN-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="UEnS7jFvRgCfqIm5CqwN-12" target="UEnS7jFvRgCfqIm5CqwN-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UEnS7jFvRgCfqIm5CqwN-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="UEnS7jFvRgCfqIm5CqwN-12" target="UEnS7jFvRgCfqIm5CqwN-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UEnS7jFvRgCfqIm5CqwN-12" value=".py uzantılı Atış kontrol Algoritmasının çalıştığı dosya" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="170" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UEnS7jFvRgCfqIm5CqwN-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="UEnS7jFvRgCfqIm5CqwN-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="600" as="sourcePoint" />
+            <mxPoint x="200" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UEnS7jFvRgCfqIm5CqwN-14" value="UDP/Socket" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="555" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UEnS7jFvRgCfqIm5CqwN-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="UEnS7jFvRgCfqIm5CqwN-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="620" as="sourcePoint" />
+            <mxPoint x="270" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UEnS7jFvRgCfqIm5CqwN-16" value="UDP/Socket" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="300" y="565" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UEnS7jFvRgCfqIm5CqwN-17" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="400" y="250" width="100" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="UEnS7jFvRgCfqIm5CqwN-18" value="LOG" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="414" y="269" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UEnS7jFvRgCfqIm5CqwN-20" value="UDP/Socket" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="470" y="485" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UEnS7jFvRgCfqIm5CqwN-22" value="SimpleBGC" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="350" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UEnS7jFvRgCfqIm5CqwN-25" value="Serial API" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="224" y="725" width="80" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

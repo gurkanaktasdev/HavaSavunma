@@ -13,17 +13,17 @@ while True:
 
     # Görüntüyü gri tonlamaya çevir
     gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
-
+    gray = cv2.equalizeHist(gray) 
     # Görüntüyü bulanıklaştır (gürültüyü azaltmak için)
     blurred = cv2.GaussianBlur(gray, (15, 15), 0)
 
     # Kenarları tespit et (Canny Edge Detection)
-    edges = cv2.Canny(blurred,90, 150)
+    edges = cv2.Canny(blurred,50, 150)
 
     # Daireleri tespit et (Hough Circle Transform)
     circles = cv2.HoughCircles(edges,
-                               cv2.HOUGH_GRADIENT, dp=1, minDist=20,
-                               param1=50, param2=30, minRadius=10, maxRadius=100)
+                               cv2.HOUGH_GRADIENT, dp=1, minDist=30,
+                               param1=100, param2=30, minRadius=20, maxRadius=200)
 
     # Eçizim aşaması 
     if circles is not None:
