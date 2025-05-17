@@ -112,7 +112,7 @@ namespace görüntüDeneme
             try
             {
                 string pythonExePath = @"C:\Python\Python313\python.exe";
-                string pythonScriptPath = @"C:\Users\aktas\Desktop\ComputerVision\havasavunma.py";
+                string pythonScriptPath = @"C:\Users\aktas\Desktop\ComputerVision\havasavunma2.py";
 
                 ProcessStartInfo psi = new ProcessStartInfo
                 {
